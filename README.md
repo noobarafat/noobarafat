@@ -13,11 +13,7 @@
 <h2 align="center">🧊 My GitHub, in 3D</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph of noobarafat" width="100%">
-  </picture>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph of noobarafat" width="100%">
 </p>
 
 <p align="center"><sub>Rebuilt every day from my contribution history.</sub></p>
