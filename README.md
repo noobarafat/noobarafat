@@ -10,6 +10,20 @@
 
 ---
 
+<h2 align="center">🧊 My GitHub, in 3D</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph of noobarafat" width="100%">
+  </picture>
+</p>
+
+<p align="center"><sub>Rebuilt every day from my contribution history.</sub></p>
+
+---
+
 ## About me
 
 I build machine learning models that have to **explain themselves**. Most of my work pairs ensemble and gradient boosting models with **SHAP** and **LIME**, so the people making decisions in health, climate, supply chain, retail and HR can see *why* a model says what it says.
